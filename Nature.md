@@ -147,3 +147,4 @@
   * "The gold-standard method for dealing with what happens when a prey species is removed from the system is to use a genetic algorithm in which randomly generated possible solutions are assigned a greater or lesser degree of fitness. Fitter solutions are then combined to create a next-generation algorithm that benefits from their superior elements. The idea is to ultimately ‘evolve’ an optimal solution."
 * [Storage of the fittest](https://www.nature.com/articles/news010329-5)
 * [Book Review: Nature's way](https://www.nature.com/articles/363222a0)
+* Chen, T., van Gelder, J., van de Ven, B., Amitonov, S.V., De Wilde, B., Ruiz Euler, H.C., Broersma, H., Bobbert, P.A., Zwanenburg, F.A. and van der Wiel, W.G., 2020. Classification with a disordered dopant-atom network in silicon. Nature, 577(7790), pp.341-345. [ [www](https://www.nature.com/articles/s41586-019-1901-0) ]

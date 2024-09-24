@@ -29,6 +29,29 @@
 * Robertson, G.G., 1988. Population size in classifier systems. In International Conference on Machine Learning (pp. 142-152). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B9780934613644500207) ] ( **GA** )
 * Caruana, R.A. and Schaffer, J.D., 1988. Representation and hidden bias: Gray vs. binary coding for genetic algorithms. In International Conference on Machine Learning (pp. 153-161). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B9780934613644500219) ] ( **GA** )
 
+## 2024
+
+[ [www]() | [pdf]() ]
+
+Li, P., Zheng, Y., Tang, H., Fu, X. and Jianye, H.A.O., EvoRainbow: Combining Improvements in Evolutionary Reinforcement Learning for Policy Search. In Forty-first International Conference on Machine Learning. [ [www](https://openreview.net/forum?id=75Hes6Zse4) | [pdf](https://openreview.net/pdf?id=75Hes6Zse4) ]
+
+Li, L., Bao, Y., Dong, P., Yang, C., Li, A., Luo, W., Liu, Q., Xue, W. and Guo, Y., DetKDS: Knowledge Distillation Search for Object Detectors. In Forty-first International Conference on Machine Learning. [ [www](https://openreview.net/forum?id=SBR8Gwe1E2) | [pdf](https://openreview.net/pdf?id=SBR8Gwe1E2) ]
+
+Kwon, Y.D., Li, R., Venieris, S., Chauhan, J., Lane, N.D. and Mascolo, C., 2024, June. TinyTrain: Resource-Aware Task-Adaptive Sparse Training of DNNs at the Data-Scarce Edge. In Forty-first International Conference on Machine Learning. [ [www](https://openreview.net/forum?id=MWZWUyfFHC) | [pdf](https://openreview.net/pdf?id=MWZWUyfFHC) ]
+
+Song, X., Tian, Y., Lange, R.T., Lee, C., Tang, Y. and Chen, Y., Position: Leverage Foundational Models for Black-Box Optimization. In Forty-first International Conference on Machine Learning. [ [www](https://openreview.net/forum?id=ea2MgKn3sV) | [pdf](https://openreview.net/pdf?id=ea2MgKn3sV) ]
+
+Jiang, Y., Yan, R., Yao, X., Zhou, Y., Chen, B. and Yuan, B., HexGen: Generative Inference of Large Language Model over Heterogeneous Environment. In Forty-first International Conference on Machine Learning. [ [www](https://openreview.net/forum?id=9ANyvRtFGa) | [pdf](https://openreview.net/pdf?id=9ANyvRtFGa) ]
+
+Ji, B., Zhou, X., Zhang, J. and Jiang, X., 2024, May. Simulation and test data association analysis for aircraft design process optimization. In Fourth International Conference on Machine Learning and Computer Application (ICMLCA 2023) (Vol. 13176, pp. 540-548). SPIE. [ [www](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13176/1317626/Simulation-and-test-data-association-analysis-for-aircraft-design-process/10.1117/12.3029369.full) | [pdf](https://www.spiedigitallibrary.org/proceedings/Download?urlId=10.1117%2F12.3029369) ]
+
+Zeng, J., Li, C., Sun, Z., Zhao, Q. and Zhou, G., tnGPS: Discovering Unknown Tensor Network Structure Search Algorithms via Large Language Models (LLMs). In Forty-first International Conference on Machine Learning. [ [www](https://openreview.net/forum?id=LVgT0ShxN5) | [pdf](https://openreview.net/pdf?id=LVgT0ShxN5) ]
+
+Gala, J. and Xie, P., Leverage Class-Specific Accuracy to Guide Data Generation for Improving Image Classification. In Forty-first International Conference on Machine Learning. [ [www](https://openreview.net/forum?id=KHymcy2xxF) | [pdf](https://openreview.net/pdf?id=KHymcy2xxF) ]
+
+Hughes, E., Dennis, M.D., Parker-Holder, J., Behbahani, F., Mavalankar, A., Shi, Y., Schaul, T. and Rocktäschel, T., Position: Open-Endedness is Essential for Artificial Superhuman Intelligence. In Forty-first International Conference on Machine Learning. [ [www](https://openreview.net/forum?id=Bc4vZ2CX7E) | [pdf](https://openreview.net/pdf?id=Bc4vZ2CX7E) ]
+
+
 ## 2020
 
 Angermueller, C., Belanger, D., Gane, A., Mariet, Z., Dohan, D., Murphy, K., Colwell, L. and Sculley, D., 2020, November. Population-based black-box optimization for biological sequence design. In International Conference on Machine Learning (pp. 324-334). PMLR. [ [www](http://proceedings.mlr.press/v119/angermueller20a.html) | [pdf](http://proceedings.mlr.press/v119/angermueller20a/angermueller20a.pdf) ] (**Ensemble**)
